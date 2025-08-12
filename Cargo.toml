@@ -1,10 +1,10 @@
 [package]
 name = "throttle-ro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A configurable throttling service for rate limiting IP-based requests"
 license = "MIT OR Apache-2.0"
-authors = ["Kak Smko <ba.smko@example.com>"]
+authors = ["Kak Smko <ba.smko@gmail.com>"]
 repository = "https://github.com/kak-smko/throttle-ro"
 documentation = "https://docs.rs/throttle-ro"
 readme = "README.md"
@@ -17,4 +17,4 @@ all-features = true
 rustdoc-args = ["--cfg", "docsrs"]
 
 [dependencies]
-cache-ro="0.1"
+cache-ro="0.2"

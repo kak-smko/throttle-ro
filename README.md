@@ -1,7 +1,7 @@
 # Throttles Service
 
 [![Crates.io](https://img.shields.io/crates/v/throttle-ro)](https://crates.io/crates/throttle-ro)
-[![Documentation](https://docs.rs/config-ro/badge.svg)](https://docs.rs/throttle-ro)
+[![Documentation](https://docs.rs/throttle-ro/badge.svg)](https://docs.rs/throttle-ro)
 [![License](https://img.shields.io/crates/l/throttle-ro)](LICENSE-MIT)
 
 
