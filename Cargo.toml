@@ -1,6 +1,6 @@
 [package]
 name = "throttle-ro"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 description = "A configurable throttling service for rate limiting IP-based requests"
 license = "MIT OR Apache-2.0"
@@ -17,4 +17,4 @@ all-features = true
 rustdoc-args = ["--cfg", "docsrs"]
 
 [dependencies]
-cache-ro="0.2"
+cache-ro="0.3.1"
